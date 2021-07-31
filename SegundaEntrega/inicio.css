@@ -1,0 +1,21 @@
+importante{
+    color: brown;
+}
+
+secundario{
+    color:red;
+}
+
+#link {
+    color: yellow;
+
+}
+
+.imagenes {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.texto {
+    margin-right: 25px;
+}
